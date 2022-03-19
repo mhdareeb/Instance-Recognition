@@ -44,7 +44,7 @@ A) Basic operation for all 3 codes -->
 
 8.TF-IDF score --> calculates TF-IDF score of training and test datasets
 
-9. Final scores and ranking --> calculates cosine similarity score using TF-IDF scores of step 8 and 
+9.Final scores and ranking --> calculates cosine similarity score using TF-IDF scores of step 8 and 
 				gives final rankings
 
 10.Saving output files --> saves output files neatly
